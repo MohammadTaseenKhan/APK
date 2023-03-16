@@ -1,0 +1,937 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: c6dIBc3VWDRwpb9cQSox0ElQORg=
+X-Android-APK-Signed: 2
+
+Name: AndroidManifest.xml
+SHA1-Digest: 0rB/7aseEpfGhYIY2hy2WiFCLQo=
+
+Name: DebugProbesKt.bin
+SHA1-Digest: dFRU025iZ0HJd6bjI1RE992RM1A=
+
+Name: assets/app_modules.json
+SHA1-Digest: 3GwJqHfWc4NStuTkv2b/LQWufgU=
+
+Name: assets/app_modules/contents/blokscamera.json
+SHA1-Digest: bFRCE4U3VwY75D+k7UTz95uoveo=
+
+Name: assets/app_modules/contents/boost.json
+SHA1-Digest: 7A2gJqFwjPufgRD7ItdTcXj/HsA=
+
+Name: assets/app_modules/contents/camera.json
+SHA1-Digest: HlvCpnIW2ld73y/gdbuMWmsabOE=
+
+Name: assets/app_modules/contents/fizz.json
+SHA1-Digest: IFWsG8pn4Usdwhv/dpiJxkk9NJE=
+
+Name: assets/app_modules/contents/heroplayer.json
+SHA1-Digest: oiIvXOJi9tVLyUIBAtpbJPnU2Fo=
+
+Name: assets/app_modules/contents/inappbrowser.json
+SHA1-Digest: b8UwuV0ix3QFBfSbBcxHDez8cTA=
+
+Name: assets/app_modules/contents/libunwindstack.json
+SHA1-Digest: +g9ykx51hI7/Bu1NtGk3yABwnHs=
+
+Name: assets/app_modules/contents/mediacompositionplayer.json
+SHA1-Digest: A/+Vp6R/nqUBky+1IrM9ZSC1lak=
+
+Name: assets/app_modules/contents/mediastreaming.json
+SHA1-Digest: P9YBx/el7vAfgvfGrkglqUv8Tks=
+
+Name: assets/app_modules/contents/mns.json
+SHA1-Digest: iL4cQUyjPOVsEhFzje9Z70axqsg=
+
+Name: assets/app_modules/contents/mnshttp.json
+SHA1-Digest: MUZ/HkbXfeRrG9DxxbrQEQky3U8=
+
+Name: assets/app_modules/contents/msys.json
+SHA1-Digest: hQ7JxEO5lQHjpMah2pjLxUTuJ2Y=
+
+Name: assets/app_modules/contents/msys_courier_db.json
+SHA1-Digest: aG02tzk/KYWLWe0qGxkZBYx6ZuA=
+
+Name: assets/app_modules/contents/msysinfra.json
+SHA1-Digest: NC83T1y+lfjcZbH+aRGybKxMIxs=
+
+Name: assets/app_modules/contents/profilo.json
+SHA1-Digest: LPNlBOiaLTkbCUEp5h92CkxA/qE=
+
+Name: assets/app_modules/contents/rtc.json
+SHA1-Digest: aiEAiSkWfA9dJsZUpvTpoXvfuxs=
+
+Name: assets/app_modules/contents/s_1214477034.json
+SHA1-Digest: Dt8gPJXqybQnHv56Vs9h0YxWSxA=
+
+Name: assets/app_modules/contents/s_blokscamera_boost.json
+SHA1-Digest: 6gXllXHcNCpONy1DYpZ7+XoP0a0=
+
+Name: assets/app_modules/contents/s_blokscamera_mediacompositionplayer
+ .json
+SHA1-Digest: S+GPgAsx9hCknTaiYpaFymh7OoA=
+
+Name: assets/app_modules/contents/s_blokscamera_mediacompositionplayer
+ _rtc.json
+SHA1-Digest: pRKp+kI0RuhkX0/zWTLzEtTgNLA=
+
+Name: assets/app_modules/contents/s_blokscamera_msysinfra.json
+SHA1-Digest: U7OrPRDmfaT5v/pGmLpLeoGBx2c=
+
+Name: assets/app_modules/contents/s_blokscamera_rtc.json
+SHA1-Digest: 512tHc8iO4lA7Z8+jMdd5t/KW8Q=
+
+Name: assets/app_modules/contents/s_boost_fizz_mediastreaming.json
+SHA1-Digest: H1MsC5I19PQD6hD8HJExVeISUeU=
+
+Name: assets/app_modules/contents/s_boost_mediastreaming.json
+SHA1-Digest: iEwqt7y1c1CbzKLUkgPl0f1ai2o=
+
+Name: assets/app_modules/contents/s_boost_profilo.json
+SHA1-Digest: Hef7S4xVYAACs2mQozrt3xdoF9s=
+
+Name: assets/app_modules/contents/s_fizz_mediastreaming.json
+SHA1-Digest: 4NBH8g/x5QwZW2PdJbm1h7uhfTE=
+
+Name: assets/app_modules/contents/s_fizz_msys.json
+SHA1-Digest: vTDofImwLobQ5fIr+KMGF+pgMaA=
+
+Name: assets/app_modules/contents/s_heroplayer_inappbrowser.json
+SHA1-Digest: q6TU1XblkhpWZg94VNCxK7M9D+o=
+
+Name: assets/app_modules/contents/s_heroplayer_rtc.json
+SHA1-Digest: qAOWANqLPlFObjnGANw0hVuaXLk=
+
+Name: assets/app_modules/contents/s_inappbrowser_msys_courier_db.json
+SHA1-Digest: 7gr0NS9ppGIjNYO+NCU/AJrIDU4=
+
+Name: assets/app_modules/contents/s_libunwindstack_profilo.json
+SHA1-Digest: FVOOwtF8AYU/QYXe49bKvVCuwJw=
+
+Name: assets/app_modules/contents/s_mediacompositionplayer_mediastream
+ ing_rtc.json
+SHA1-Digest: bwmfrIaBVi7M5cgd7Lp9Zp8rlr0=
+
+Name: assets/app_modules/contents/s_mediastreaming_msysinfra.json
+SHA1-Digest: d11IPAaBgSm7WZB9SUfXRRqIhx0=
+
+Name: assets/app_modules/contents/s_mediastreaming_profilo_rtc.json
+SHA1-Digest: ppfXO9bRqhmo15z3IXJ9TcciEDM=
+
+Name: assets/app_modules/contents/s_mediastreaming_rtc.json
+SHA1-Digest: WKa8V9+5LjtJDU8w+4f/rBY+Ug0=
+
+Name: assets/app_modules/contents/s_mns_mnshttp.json
+SHA1-Digest: 7drBjXDz4ctUPVoaGQb3pW450fc=
+
+Name: assets/app_modules/contents/s_mns_mnshttp_msys_rtc.json
+SHA1-Digest: 6kR7gepZUKdSwM5J1PzW1McKrFM=
+
+Name: assets/app_modules/contents/s_mnshttp_msys.json
+SHA1-Digest: j6ZgTX94yG+ZDV5M8IFDCjFj/0I=
+
+Name: assets/app_modules/contents/s_mnshttp_msys_courier_db_msysinfra.
+ json
+SHA1-Digest: ZMPItkhmTFA7V8K0elv2lwZHEJU=
+
+Name: assets/app_modules/contents/s_mnshttp_msysinfra.json
+SHA1-Digest: z08yyLz1q9ykr/lcC6VqWmZomOQ=
+
+Name: assets/app_modules/contents/s_msys_courier_db_msysinfra.json
+SHA1-Digest: f9h1x4FYGykt8DTow5RPYPQU63I=
+
+Name: assets/app_modules/contents/s_msys_msys_courier_db.json
+SHA1-Digest: Dfhzf/IEcqyDtEjE1lloPPpMefc=
+
+Name: assets/app_modules/contents/s_msys_msys_courier_db_rtc.json
+SHA1-Digest: VC3/qEDmq5NlNBHMytaa/3ad45Q=
+
+Name: assets/app_modules/contents/s_msys_rtc.json
+SHA1-Digest: boywznKvY8uIaP/xEohQvqm2t9M=
+
+Name: assets/app_modules/contents/shared_fizz_ms_profilo.json
+SHA1-Digest: wshWVE9APtSDwaEOKoFkAOdQ9XY=
+
+Name: assets/app_modules/contents/uiqr.json
+SHA1-Digest: 41w/o55dSibn8jKBaJiJ64dOq6o=
+
+Name: assets/com/facebook/logginginfra/falco/c3a03223e75be6a87c011c902
+ 18110c3.meta
+SHA1-Digest: 5i0+h3qoFVV5hHJWFtf8Fox1pPI=
+
+Name: assets/fbpermissions.json
+SHA1-Digest: +yj8e0C5k4IiVR63rCRbtzwOur4=
+
+Name: assets/fbt/default/strings.bin
+SHA1-Digest: BprKtogS321lBEFUoSZIlLLrHQA=
+
+Name: assets/lib/libs.xzs
+SHA1-Digest: KHcvpuQDnZIbRjd0Lo5DWoBh8Og=
+
+Name: assets/lib/metadata.txt
+SHA1-Digest: vQOnht8bXl/3/JqS0qIHTwW+/LY=
+
+Name: assets/mc_lite_configs_and_params_list.bin
+SHA1-Digest: LoIj+2iYbkiFmufqkwVIE9fXeq0=
+
+Name: assets/mc_query_hash.bin
+SHA1-Digest: 3SWUG/wHQH4aBOcERBTowwlpQHU=
+
+Name: assets/secondary-program-dex-jars/dex_manifest.txt
+SHA1-Digest: Mb1kTCRnlcDoOj91gIXU40iQasc=
+
+Name: assets/secondary-program-dex-jars/metadata.txt
+SHA1-Digest: jN67sb+e1sfulJSqktwLhH5cxOk=
+
+Name: assets/secondary-program-dex-jars/store-0.dex.spo
+SHA1-Digest: g0ZHI0CE9kbIfiJLoRFeA8BSI4c=
+
+Name: classes.dex
+SHA1-Digest: jECDjyyVUShXCGK6rkC8lV6Ip8s=
+
+Name: core-facebook.properties
+SHA1-Digest: rY5xIIGK4Mnf8W1P7grMbx2crBw=
+
+Name: firebase-annotations.properties
+SHA1-Digest: K4oKbaw+xVAD+wajMF4fcvEeCm4=
+
+Name: firebase-common.properties
+SHA1-Digest: S821g2PGHDvbq2gzeJtRHKZ2YNk=
+
+Name: firebase-components.properties
+SHA1-Digest: tXAKDGRDGNkzwwVMMEK4lWtiR+Y=
+
+Name: firebase-iid-interop.properties
+SHA1-Digest: EG/NEOnrgZ0SQjjc64Xu8L+hd+o=
+
+Name: firebase-iid.properties
+SHA1-Digest: G1PDDfG0xHIyQjpEvdNstGtAaco=
+
+Name: firebase-measurement-connector.properties
+SHA1-Digest: xGhmL53frvnh03/p4k58xibaXVQ=
+
+Name: firebase-messaging.properties
+SHA1-Digest: RRbgJi7eNVFuSHkJBbjHPqZOB1I=
+
+Name: kotlin/annotation/annotation.kotlin_builtins
+SHA1-Digest: u2/Z7uzWXgLQ8saGO/SXitO0nP8=
+
+Name: kotlin/collections/collections.kotlin_builtins
+SHA1-Digest: hGzyGYoe+Vc1UOnD9Mg4kY4ZXxY=
+
+Name: kotlin/coroutines/coroutines.kotlin_builtins
+SHA1-Digest: cmy3peJy1Zdf5inD2qNB1hpYdmY=
+
+Name: kotlin/internal/internal.kotlin_builtins
+SHA1-Digest: Kn+9NTlrY5P+1sPoBxjbLvK4V+4=
+
+Name: kotlin/kotlin.kotlin_builtins
+SHA1-Digest: aNCz6EPoKbNUqM+iaoCfQlzJtMU=
+
+Name: kotlin/ranges/ranges.kotlin_builtins
+SHA1-Digest: ywAMVkEx9TQsULkKeloJzkGxQRc=
+
+Name: kotlin/reflect/reflect.kotlin_builtins
+SHA1-Digest: jNalo2j0uwpF4h0aARwPCwiFdpc=
+
+Name: lib/armeabi-v7a/libbreakpad_cpp_helper.so
+SHA1-Digest: qGmYLD8AHzHspMsUVeFqKxFsW40=
+
+Name: lib/armeabi-v7a/libc++_shared.so
+SHA1-Digest: lPHEUs5isVPYKSZjiFePxP8+tao=
+
+Name: lib/armeabi-v7a/libfb_xzdecoder.so
+SHA1-Digest: rlj87RppwxD1UQDtqVRY8p2wvZY=
+
+Name: lib/armeabi-v7a/libmemalign16.so
+SHA1-Digest: BFiDeiPHtiCm92DDtdAUXP0FtPA=
+
+Name: lib/armeabi-v7a/libsigmux.so
+SHA1-Digest: yTBbMcoYkuL4y/w0QWs8rMWtEfg=
+
+Name: lib/armeabi-v7a/libsuperpack-jni.so
+SHA1-Digest: 5laK1lMm27Z8Ge95GjyLmy+w7oo=
+
+Name: lib/x86/libbreakpad_cpp_helper.so
+SHA1-Digest: 7HRXpXyJmcMpJ5VykA7yehVPNvo=
+
+Name: lib/x86/libc++_shared.so
+SHA1-Digest: Fkfhg4pJ0kb0I5FFumXBOzOxSyw=
+
+Name: lib/x86/libfb_xzdecoder.so
+SHA1-Digest: bdWZi+pT+ebY9ShXxUqB6A1/jK8=
+
+Name: lib/x86/libmemalign16.so
+SHA1-Digest: 6vKJGrz6SenBZSgWI8WcTS1jiWU=
+
+Name: lib/x86/libsigmux.so
+SHA1-Digest: ZCj81keA7TA7iDeytsGcA6QhdbA=
+
+Name: lib/x86/libsuperpack-jni.so
+SHA1-Digest: HTFKwl9XWyTHeFzkQbKoz16CmcI=
+
+Name: play-services-auth-api-phone.properties
+SHA1-Digest: 5cuwynKc6V1Do72pEI0RbxxeQrs=
+
+Name: play-services-auth-base.properties
+SHA1-Digest: 2wz8ayGJoHbfPow2dXLke5hfjCw=
+
+Name: play-services-auth-blockstore.properties
+SHA1-Digest: 5HPhfX/55nk17WR+Wf7YNLlyKek=
+
+Name: play-services-auth.properties
+SHA1-Digest: rNKnz4GyQnh/GLqso8HT209jPS8=
+
+Name: play-services-base.properties
+SHA1-Digest: VzohevnsRjwYXv1qAr8tLT5AKOA=
+
+Name: play-services-basement.properties
+SHA1-Digest: U0aDe218FlTZp/G5820lKVVnMNE=
+
+Name: play-services-instantapps.properties
+SHA1-Digest: Z2uH/hCmEXA3UInVJ49MeKT554U=
+
+Name: play-services-location.properties
+SHA1-Digest: G1jg1LKtz9HOnu5a5W+s12x/neg=
+
+Name: play-services-places-placereport.properties
+SHA1-Digest: Nh02lihGE/MDfW6SgjUkX6DgyUA=
+
+Name: play-services-safetynet.properties
+SHA1-Digest: O4hJsGyb7B85cZvGyN3jPaItOEc=
+
+Name: play-services-stats.properties
+SHA1-Digest: OEj3Sr+QRrnSWPsT/xj5GUwIQUs=
+
+Name: play-services-tasks.properties
+SHA1-Digest: 3rEb6p3Mb+2FFN248pNSOghXhPw=
+
+Name: r/-.png
+SHA1-Digest: 6wSVsUtvj6UW22N2JN+CpdsbZwA=
+
+Name: r/0.png
+SHA1-Digest: +I7QTFtX8/3xv4jzONjPNaCpYMc=
+
+Name: r/1.png
+SHA1-Digest: Mo9Dv3xoJsSIlyRaYa6rZMya/Y0=
+
+Name: r/2.png
+SHA1-Digest: 95tLk+Nsm1qW8zPpljbbUWsrjYI=
+
+Name: r/3.png
+SHA1-Digest: nYQyEy9eJF0O8/ixEm0j3gYy3q8=
+
+Name: r/4.png
+SHA1-Digest: Ri3Tct3CROBku8P5eQFmWy2C9w4=
+
+Name: r/5.png
+SHA1-Digest: rNV0MBZ07Qmqc8RaAzlGJ65FlEs=
+
+Name: r/6.png
+SHA1-Digest: pn+d1PGebViwUdQGqbRP61Kvs/A=
+
+Name: r/7.png
+SHA1-Digest: MJ5tUEzE4f82iTHjX6r5TPafxeo=
+
+Name: r/8.png
+SHA1-Digest: KVigpHYeri3vIC2dePu8iFOgoRU=
+
+Name: r/9.png
+SHA1-Digest: LmNEScLNv8kEJsLcPDUwwSahoSw=
+
+Name: r/_.png
+SHA1-Digest: xPf887g/qEucmU6FzeAu0Rgh6GY=
+
+Name: r/a.xml
+SHA1-Digest: iNJYec6R2n2XRuJYD7fE8ilp0P4=
+
+Name: r/b-.png
+SHA1-Digest: Vve6Ac3S3DWxz/vAFFRLZ+axPcw=
+
+Name: r/b.xml
+SHA1-Digest: L8mLkcO62jjJ8vqys4FuU7jh8uc=
+
+Name: r/b0.png
+SHA1-Digest: cieHlYgWK3i8HT3JtBDrRdoRiEI=
+
+Name: r/b1.png
+SHA1-Digest: MpzA7CfFRhdv5TawxByfQpTNtTs=
+
+Name: r/b2.png
+SHA1-Digest: iNxExgbXxHqGGm2xdi59Fk/d52E=
+
+Name: r/b3.png
+SHA1-Digest: 1qZukDGcUk/ski09xazj8W1yqmU=
+
+Name: r/b4.png
+SHA1-Digest: FBSwRsngAOncC3GZt9M6uLH/y5A=
+
+Name: r/b5.png
+SHA1-Digest: +56Xe+xQUvArkxThoThPDV/LBLg=
+
+Name: r/b6.png
+SHA1-Digest: 8mkJFa3UIKExYZMLZ+TcCfdUXO8=
+
+Name: r/b7.png
+SHA1-Digest: kPS/GE7ctuQGaG2j6JtPxHHEp28=
+
+Name: r/b8.png
+SHA1-Digest: VKBIBGWbEqLUUbx8tWAWsJyZilE=
+
+Name: r/b9.png
+SHA1-Digest: /Y3Kf9Ye8DGbsNTaVGGZ3MUj57s=
+
+Name: r/b_.png
+SHA1-Digest: /h33E+7Rdg/vGb3l24ASHollf9M=
+
+Name: r/ba.png
+SHA1-Digest: 93QpvvBsnQB9jxuU+VnQ9N1exTU=
+
+Name: r/bb.g.png
+SHA1-Digest: tY0UO113eQnfKcvBCFKmU7tVB3I=
+
+Name: r/bc.g.png
+SHA1-Digest: wg+banBPagdaSP9iTXFrgF/kQOo=
+
+Name: r/bd.png
+SHA1-Digest: J8oo7ePP2e2hNLTzeYIpjclXX6o=
+
+Name: r/be.png
+SHA1-Digest: 2EOrnqxXz5Fxksl5i4Z4o49BZdA=
+
+Name: r/bf.png
+SHA1-Digest: xE0Wv1KiURX+sR/RrO3c0ieRnIg=
+
+Name: r/bg.png
+SHA1-Digest: 9KxN/5xR3LmxaSYhL4TYlHPoSrQ=
+
+Name: r/bh.png
+SHA1-Digest: BBki8Nv4ZbRaqJ0v3UBnsZuWBGY=
+
+Name: r/bi.png
+SHA1-Digest: LpulUJewxU+0x9o5vC0Fxb6LMag=
+
+Name: r/bj.png
+SHA1-Digest: LLBsAisShNTICp+HhwH7zUrubzk=
+
+Name: r/bk.png
+SHA1-Digest: T4/Tw8xbqvo0fwq0WUw0d7OFA44=
+
+Name: r/bl.png
+SHA1-Digest: Jt74V5tpY7Zlvv/3TG3MLSo8+3E=
+
+Name: r/bm.png
+SHA1-Digest: Vaxs7qcNcmqEjXx6LMNuA7HD+6E=
+
+Name: r/bn.png
+SHA1-Digest: uAQovnLLA91xT81pa2EaoIx6mvw=
+
+Name: r/bo.png
+SHA1-Digest: Qbnm1xWSApXSRjKvnjvpMkFUKMs=
+
+Name: r/bp.png
+SHA1-Digest: iS8SO1JIhYQkti3A2cAvAXkt/4Q=
+
+Name: r/bq.png
+SHA1-Digest: 1cLmLwBXJO7E+hqYnyyvpNAKbxA=
+
+Name: r/br.png
+SHA1-Digest: j6Yko5fHMgpGu2aTlwnH7JB1Teg=
+
+Name: r/bs.png
+SHA1-Digest: kzzweZL5+yZ8ZbjgfBII/MLNjFk=
+
+Name: r/bt.png
+SHA1-Digest: XL9Y5G65tRCy3uA4BblfXSHyOnQ=
+
+Name: r/bu.png
+SHA1-Digest: MGg4PxalUfqelQu0m/S5Opw8RI8=
+
+Name: r/bv.g.png
+SHA1-Digest: XH8MgHfU8Kq5iTDLQJlyP+yuKmE=
+
+Name: r/bw.g.png
+SHA1-Digest: QH5pZsre/0HAm27wVstI1fmOtcU=
+
+Name: r/bx.png
+SHA1-Digest: z0R4xLPXdbNyyjPerzWgq2gljlU=
+
+Name: r/by.png
+SHA1-Digest: Dj85aLDOjWOreORnfOJ7CzgzlaE=
+
+Name: r/bz.png
+SHA1-Digest: 8P9XWYZcCHCj75tGu5w9/e7fb4k=
+
+Name: r/c-.xml
+SHA1-Digest: zkfE/Ql9v0NvU9+rCmDfk28KtAA=
+
+Name: r/c.xml
+SHA1-Digest: WOCZLLDAa9HiJ5PsFQHYAXLx6L0=
+
+Name: r/c0.xml
+SHA1-Digest: HU0oGbpLxyIBBkvf+KGA15THS/Y=
+
+Name: r/c1.xml
+SHA1-Digest: UxH6Rov2QKEVJ121mnpUOToUiqA=
+
+Name: r/c2.xml
+SHA1-Digest: UPIgzf1ZfnvWoJFhFMOV+TE5dZY=
+
+Name: r/c3.xml
+SHA1-Digest: ICaZ0vl6J+Q7jYvIu9VaadgWfvI=
+
+Name: r/c4.png
+SHA1-Digest: 75qqBQbQEWhaNOZjvW1tkGjlUak=
+
+Name: r/c5.png
+SHA1-Digest: jz79pGuvNDcrmURoINjqWu+5hBo=
+
+Name: r/c6.png
+SHA1-Digest: BOBuhOZyXwwS0XrqAu8UE/+0sCA=
+
+Name: r/c7.xml
+SHA1-Digest: ajsZWVGu6Cx7651QvYlZFyFXgo4=
+
+Name: r/c8.xml
+SHA1-Digest: roMb+kNYwVOdpADWOrHcQ1uIaHc=
+
+Name: r/c9.xml
+SHA1-Digest: VzvZPnXaUYaZzg1VW7dufSL05SE=
+
+Name: r/c_.xml
+SHA1-Digest: bd4Gu+VvEAKAaFZw9O5BjkWEQbQ=
+
+Name: r/ca.png
+SHA1-Digest: zGXcjRNS0wyt3ZQWbR8l/nYzk/4=
+
+Name: r/cb.png
+SHA1-Digest: J6oVMebzF+fPFQMysc4hXmWogYE=
+
+Name: r/cc.png
+SHA1-Digest: GjQzOT1MjNQ3G/YkSX7Uy7JibTM=
+
+Name: r/cd.png
+SHA1-Digest: g4F1SFxiFApm1suKiCwgQATPSaY=
+
+Name: r/ce.png
+SHA1-Digest: 2qP9lSObVPqOyLPW/35J1UiYlm8=
+
+Name: r/cf.png
+SHA1-Digest: cWNBVECah5jOCsdP2/9G9l5IZXc=
+
+Name: r/cg.g.png
+SHA1-Digest: jhW0beH8jay6FObXDGXIIpKbH1U=
+
+Name: r/ch.g.png
+SHA1-Digest: EHCdG6mccgGkhBcPEU7e9cUCVE8=
+
+Name: r/ci.png
+SHA1-Digest: 4raLgWUwVY3/ZXx5JIjBUZI7LNA=
+
+Name: r/cj.png
+SHA1-Digest: m7L+Lro96ENnocpd+z88MCGoQpw=
+
+Name: r/ck.png
+SHA1-Digest: /dKjN9gCDXcXSQvw1pWQfBe/ORc=
+
+Name: r/cl.png
+SHA1-Digest: WNSbHyfWbbnk5Rw8u5YJJISQS/M=
+
+Name: r/cm.png
+SHA1-Digest: H056Ic0g03hzT0UKbD/ydW8MTSQ=
+
+Name: r/cn.png
+SHA1-Digest: +3ahYLjy8Tj13E4YkIBWMLQMsR0=
+
+Name: r/co.png
+SHA1-Digest: UerOgCjq+r+rYyN0Wz/xDl2gmms=
+
+Name: r/cp.png
+SHA1-Digest: MG09AKFA8Y51n2eHz60c0x9rouw=
+
+Name: r/cq.png
+SHA1-Digest: adWBQPJ+n5CmXU7zVUUXz5JZNVs=
+
+Name: r/cr.png
+SHA1-Digest: suEdMi1OZEO643CNeIapbvqIqVU=
+
+Name: r/cs.png
+SHA1-Digest: 6F4KQRbma9cS9uQXN+FWTe86lFI=
+
+Name: r/ct.png
+SHA1-Digest: MtuT7frhEYnpCE0UMv7W7VXkY8U=
+
+Name: r/cu.png
+SHA1-Digest: KGxJ3lL/tkOYW4Zu6z2sJ1w9MAk=
+
+Name: r/cv.png
+SHA1-Digest: aiyQcwKxWCjDz5DRJXEDc1NOPQI=
+
+Name: r/cw.png
+SHA1-Digest: Lndqz/ip8LyceDGnsSGzO8ZJQyI=
+
+Name: r/cx.xml
+SHA1-Digest: 9TpxWct9P+JXMIbi6iwa1jGsex8=
+
+Name: r/cy.xml
+SHA1-Digest: eU5aYrNdlH1G/+MBlu9TtdXf+lY=
+
+Name: r/cz.xml
+SHA1-Digest: pX3ON2d9qj+lMuKEHMQ9kzbi2pc=
+
+Name: r/d-.png
+SHA1-Digest: 9lXPSvSc54Db9Vfa1SS8iUnofe0=
+
+Name: r/d.xml
+SHA1-Digest: te6TvRtg9+nXHEhA4ArVChUZhXE=
+
+Name: r/d0.xml
+SHA1-Digest: Z8NpZz06hx4JG+q2HxVl2rZNs9Y=
+
+Name: r/d1.png
+SHA1-Digest: TQekDYHruIliWdHxp6LYNf5PLIo=
+
+Name: r/d2.png
+SHA1-Digest: EbR4WUhgS7AcWaN7MwtqdcEODWc=
+
+Name: r/d3.xml
+SHA1-Digest: F5X2gR+jzF+eplqKFswfDqTVEuY=
+
+Name: r/d4.xml
+SHA1-Digest: 2smi58+E+SyIl7/8ewqv6j9XO5E=
+
+Name: r/d5.xml
+SHA1-Digest: uzc8PRfa+eYX3cnHV2R5r1fy56Q=
+
+Name: r/d6.xml
+SHA1-Digest: LkvJqZvj19n2jn8jV/DZLzs+XeI=
+
+Name: r/d7.9.png
+SHA1-Digest: m2pkhQ1IJ4Jx7S+56do50fwlpcY=
+
+Name: r/d8.9.png
+SHA1-Digest: YvNgFgb0rul/pe7BtOtIFDXPseY=
+
+Name: r/d9.9.png
+SHA1-Digest: w3l7ZNWEZpxKGvko+boz3F5dluA=
+
+Name: r/d_.9.png
+SHA1-Digest: 2SdhhWU3KUz3ps6XSsv9+aW8moE=
+
+Name: r/da.xml
+SHA1-Digest: RCgwRt3NOEtqWK8s4iGHtdHPUxQ=
+
+Name: r/db.xml
+SHA1-Digest: YfXqwcawMEkxk50vlp2Cr+LjUPY=
+
+Name: r/dc.xml
+SHA1-Digest: x1w62WvVb7DL6Vh2EvRXejNxKys=
+
+Name: r/dd.xml
+SHA1-Digest: WNCnKaCL7LfFEvZsKcbs6JWSHGg=
+
+Name: r/de.png
+SHA1-Digest: u2+6gfQgDd2v6wfNjJVt1Zv3u8k=
+
+Name: r/df.9.png
+SHA1-Digest: m4Iwi9tHhHIsylL8wdD6Fp8zzYI=
+
+Name: r/dg.xml
+SHA1-Digest: Rw5y12mLR3QiO65R+hOdX8R510E=
+
+Name: r/dh.xml
+SHA1-Digest: 4bLkX+kKwvKwURrP+XY60Mibo34=
+
+Name: r/di.xml
+SHA1-Digest: f+mDtVkCMzxUrYtrZF36V9ZXrrk=
+
+Name: r/dj.xml
+SHA1-Digest: oFlho4BXVddZrJyObkgi0EhywYo=
+
+Name: r/dk.png
+SHA1-Digest: gCxuV15ZLiGrBSd/DAEBKVe2w+k=
+
+Name: r/dl.xml
+SHA1-Digest: HoXoff1S7KFbI+7VsB3ieAw4OAk=
+
+Name: r/dm.xml
+SHA1-Digest: /3rmdoq4yLKQbmVklLoJBDvQyBs=
+
+Name: r/dn.xml
+SHA1-Digest: gGosYe5W6Ru7DnkUptfNyOnOfns=
+
+Name: r/do.xml
+SHA1-Digest: 7VR9kSZDlBxoKq8/RPQG7/HaDio=
+
+Name: r/dp.xml
+SHA1-Digest: vh41TDTOWV2b/t/hv08sP17R7Bc=
+
+Name: r/dq.xml
+SHA1-Digest: Sao2jYCXcroN4Z44BBn7EmxgE94=
+
+Name: r/dr.xml
+SHA1-Digest: z0XN9sxpUstyXJ2JoieT9ePwN6E=
+
+Name: r/ds.xml
+SHA1-Digest: ss371hQDZGQ2meVUdo7kwfb1cR8=
+
+Name: r/dt.xml
+SHA1-Digest: FLZcQ6QRCynqODW+1XyB0GfQUso=
+
+Name: r/du.xml
+SHA1-Digest: 5SF8RED8rcSFatLVnWov1Pzf8J8=
+
+Name: r/dv.xml
+SHA1-Digest: vx8WYn5eLVJcaWV8QqNbAT1vzdQ=
+
+Name: r/dw.png
+SHA1-Digest: cknNbboZfKbLZG5do3AmGr0TPUE=
+
+Name: r/dx.xml
+SHA1-Digest: oOKRDY6oODQv6INNTiWaIoGrXDM=
+
+Name: r/dy.png
+SHA1-Digest: SR3xXLmyT53m8RWeiA/2tP8nso4=
+
+Name: r/dz.xml
+SHA1-Digest: ldrl01ZSbiKo/bqGdz6a47LPcGc=
+
+Name: r/e-.xml
+SHA1-Digest: yOJtQVvFaOetEwKGvCPkSFj3PLY=
+
+Name: r/e.xml
+SHA1-Digest: 0I/f+FUzrCfJRZB/EoDmV3+rebk=
+
+Name: r/e0.xml
+SHA1-Digest: CMx+K2Nv+OYIyC0QijJ+Ocgojj8=
+
+Name: r/e1.xml
+SHA1-Digest: PEiMtzJcvYCIAP58Mf6olSz5mkI=
+
+Name: r/e2.xml
+SHA1-Digest: 7IrXJe5UFRihQo3nSvysrDVNg90=
+
+Name: r/e3.xml
+SHA1-Digest: FbrZ1DfCHxPrhk6aOW52b9Kke30=
+
+Name: r/e4.xml
+SHA1-Digest: GikwbpllZwiatZf/bi9bHu65ir8=
+
+Name: r/e5.xml
+SHA1-Digest: V0YoStl+UjrZ6ewq2faHFVDR9Fo=
+
+Name: r/e6.xml
+SHA1-Digest: +fAP1gn0Cy8iifmx8ENX3Cfp/jY=
+
+Name: r/e7.xml
+SHA1-Digest: +aMPWafOlstEOHLKiXbzIXHyRnI=
+
+Name: r/e8.xml
+SHA1-Digest: 59TWJlaWgf/rI7lk/PQQdUoR/EU=
+
+Name: r/e9.xml
+SHA1-Digest: PUNG8WE/O9y45/lxCqK0ySpJeM4=
+
+Name: r/e_.xml
+SHA1-Digest: /OwNc8aPZjMmWI+U2C/b+wqkToA=
+
+Name: r/ea.png
+SHA1-Digest: PtOyLh/GJqi44nm1uJcf+pmc0wc=
+
+Name: r/eb.xml
+SHA1-Digest: hTODVe4U5dRaJS4YF1QZZcDAbqw=
+
+Name: r/ec.xml
+SHA1-Digest: 8key/Y7O+7z+TR2BBXw7egN38MI=
+
+Name: r/ed.xml
+SHA1-Digest: 1HD+Q97/0V8hILc5Chd4XsJrVSk=
+
+Name: r/ee.xml
+SHA1-Digest: gZLaGdQAEkE4MZZZUWBDqFRMn+I=
+
+Name: r/ef.xml
+SHA1-Digest: uIoNSDDpme32uohW4HlV7MRyG9o=
+
+Name: r/eg.xml
+SHA1-Digest: sAAJHnujSXeq7kWRMQTNxNwqPkM=
+
+Name: r/eh.png
+SHA1-Digest: GkjKos6J2++5FUxyIGrj18CxD80=
+
+Name: r/ei.png
+SHA1-Digest: 3Le82oywbRK2Zl2l7mr8KnplGro=
+
+Name: r/ej.png
+SHA1-Digest: ueR2YyNNBZ5HtGjg/ZpuA078rDw=
+
+Name: r/ek.png
+SHA1-Digest: d6tL5CdyEmYXd2bTf5Z5Khl51MI=
+
+Name: r/el.png
+SHA1-Digest: Cwv18uz6CN2ag3X30cyi0Dt8x4U=
+
+Name: r/ev.xml
+SHA1-Digest: 0imha9/ToUefv+Z+4wAD8VdSCBU=
+
+Name: r/ew.xml
+SHA1-Digest: EyhabNiEWyfMWbQN8Pq3Tu6XxnY=
+
+Name: r/ex.xml
+SHA1-Digest: DBO1cSPXFmLM+OVjfPul06Pgw+0=
+
+Name: r/ey.xml
+SHA1-Digest: GneLzlIbonkq4BeJ5W+n6r0jmKA=
+
+Name: r/ez.xml
+SHA1-Digest: mVWRUrcQ6aNndVv1ao94E0EOWrY=
+
+Name: r/f.xml
+SHA1-Digest: +HxtFRcP79uo6/Vfj6Ooke/MKrA=
+
+Name: r/f0.xml
+SHA1-Digest: 02GHGtagMqi/AcewIKEK1flJ3NU=
+
+Name: r/f1.xml
+SHA1-Digest: ZrB/XeVhPqsTSs4OVXAhrNmy60M=
+
+Name: r/f2.xml
+SHA1-Digest: xRmzgAxWHBJKvprfvPsn2Oa7ong=
+
+Name: r/fa.xml
+SHA1-Digest: /DKFWUn5wcm2/0/BzpZplU8X/Qw=
+
+Name: r/fb.xml
+SHA1-Digest: bhat6nQiqbaJT8EcI/9gkIIJEIs=
+
+Name: r/fc.xml
+SHA1-Digest: 10E1/pzOxSeEsgiUnF8jbgtx4/4=
+
+Name: r/fd.xml
+SHA1-Digest: 5eY5tvqHDpj1/1rc6K+zizTHBLY=
+
+Name: r/fe.png
+SHA1-Digest: Hx/NgJr8L0UARsmX4R5EfdUv1IU=
+
+Name: r/ff.png
+SHA1-Digest: Yl6jvBIgfYER5Ad320wuJkBMB9I=
+
+Name: r/fg.png
+SHA1-Digest: Mra9tKOVaMDz9+EB/MpArZaslWA=
+
+Name: r/fh.png
+SHA1-Digest: zKlL8WqHiQjIaO/yX4EGvKF2N3c=
+
+Name: r/fi.png
+SHA1-Digest: VuRH8TrlA+9mQZWvVgldmxtvodU=
+
+Name: r/fj.png
+SHA1-Digest: x+iaI48pnJntMtbnWcUVQiAlKEg=
+
+Name: r/fk.png
+SHA1-Digest: +Vt8OnIBN1nmMSjGcPjspauocT0=
+
+Name: r/fl.png
+SHA1-Digest: gv6/MJQladWf/8WrzqcrkAfmtXs=
+
+Name: r/fn.glsl
+SHA1-Digest: nwKtGMvaCuH7tcVGQTBDxub0aZo=
+
+Name: r/fo.glsl
+SHA1-Digest: PHSI/kMLvU8sFXwzJZVUlbKaCBo=
+
+Name: r/fp.glsl
+SHA1-Digest: X496gsyiVm4Hk6z+l36PWGRmWI4=
+
+Name: r/fq.glsl
+SHA1-Digest: oQbG6bTt+7Nlvr6dOOhdoStBgK0=
+
+Name: r/fr.glsl
+SHA1-Digest: 9i3T7bF9jwxGv6fDspgbizdG6Ho=
+
+Name: r/fs.jpg
+SHA1-Digest: n+1zHoVn3W2b+nPEdTQWfCu60fc=
+
+Name: r/ft
+SHA1-Digest: o6/I4W6oRr5MzjUxkJIP9d0sDos=
+
+Name: r/fu.glsl
+SHA1-Digest: CB/acl4cTHZMkoKUrGG8a2py8lc=
+
+Name: r/fv.glsl
+SHA1-Digest: d7T2isHhut1Br5eWPOPMneJ7Le4=
+
+Name: r/fw.xml
+SHA1-Digest: UOylLM3nzxPtzcgXjmp0oYCCOqw=
+
+Name: r/fx.xml
+SHA1-Digest: afUek3aHJSm9CFFSXCoKue+nPKk=
+
+Name: r/fy.xml
+SHA1-Digest: LMnk2SvhszVHdV2SovSH2sPSnZE=
+
+Name: r/fz.xml
+SHA1-Digest: PgqySmHCezmhcjeBxRQVNzITXSs=
+
+Name: r/g.xml
+SHA1-Digest: zRaWlUx0E7UR1n4hH29Uw7IxUw8=
+
+Name: r/h.xml
+SHA1-Digest: H/gCcDjxfrroHuyWJV3nbA/E2lg=
+
+Name: r/i.xml
+SHA1-Digest: kHZpLzmo8LnvTOo3lANsqfu8VRc=
+
+Name: r/j.xml
+SHA1-Digest: J9LIHEXiqfEL/Yz78nFBkO1N9Z4=
+
+Name: r/k.xml
+SHA1-Digest: hO9yF0ficzhyfgkiQWtAv5fG28s=
+
+Name: r/l.xml
+SHA1-Digest: FYnnnWqWj4SJNc4fAagORKIW6kc=
+
+Name: r/m.xml
+SHA1-Digest: aa1MJCiC8/d5migk9YeIFErVUwM=
+
+Name: r/n.xml
+SHA1-Digest: wx+wZnyY/VCxphT4rLYp/Faw0xo=
+
+Name: r/o.xml
+SHA1-Digest: +PNkQedhzq+vJ/6rD+O7l6sj1vU=
+
+Name: r/p.xml
+SHA1-Digest: HowCIhvup1TZzqGYMSCjRY8e66M=
+
+Name: r/q.xml
+SHA1-Digest: kR/+6ZX00qIdmpskVbv2xEjKVfs=
+
+Name: r/r.xml
+SHA1-Digest: nE3BYgu47efH2mUZgSgm3SEOF2k=
+
+Name: r/s.png
+SHA1-Digest: WBAJpPVvlI8LMO50AE+xMySZlzY=
+
+Name: r/t.png
+SHA1-Digest: osQmgodzXs3dYNi1cpBt3qMRCNE=
+
+Name: r/u.png
+SHA1-Digest: FahZ/qOO8x4DKO5U3NAqHGEKqX4=
+
+Name: r/v.png
+SHA1-Digest: vhOgvA8K+bEhsqZiQsK8kiqwEGY=
+
+Name: r/w.png
+SHA1-Digest: dnflmCFXx3r6vG2VQAVSAVHkOoM=
+
+Name: r/x.png
+SHA1-Digest: vqZvPyTEw8E3LeSh+sfsb31PWC0=
+
+Name: r/y.g.png
+SHA1-Digest: wMZxNevnyHlFH+FJFaAHgPikI0E=
+
+Name: r/z.g.png
+SHA1-Digest: f/c+2+NoiaDBYg614JuI21WaVBo=
+
+Name: resources.arsc
+SHA1-Digest: osQbzWw9ynsbm2MN6oW+AQMmuTU=
+
